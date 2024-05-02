@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <departments>
+    <IT>
+      <employees>
+        <employee>
+          <fname>John</fname>
+          <lname>Smith</lname>
+          <displayName>John Smith</displayName>
+        </employee>
+        <employee>
+          <fname>Jane</fname>
+          <lname>Doe</lname>
+          <displayName>Jane Doe</displayName>
+        </employee>
+        <employee>
+          <fname>Joe</fname>
+          <lname>Mama</lname>
+          <displayName>Joe Mama</displayName>
+        </employee>
+        <employee>
+          <fname>Bob</fname>
+          <lname>Doe</lname>
+          <displayName>Bob Doe</displayName>
+        </employee>
+        <employee>
+          <fname>Bobert</fname>
+          <lname>Mama</lname>
+          <displayName>Bobert Mama</displayName>
+        </employee>
+      </employees>
+    </IT>
+    <Marketing>
+      <employees>
+        <employee>
+          <fname>Robert</fname>
+          <lname>Smith</lname>
+          <displayName>Robert Smith</displayName>
+        </employee>
+        <employee>
+          <fname>Grace</fname>
+          <lname>Mama</lname>
+          <displayName>Grace Mama</displayName>
+        </employee>
+      </employees>
+    </Marketing>
+    <Finance>
+      <employees>
+        <employee>
+          <fname>Rob</fname>
+          <lname>Smith</lname>
+          <displayName>Rob Smith</displayName>
+        </employee>
+        <employee>
+          <fname>Stacy</fname>
+          <lname>Doe</lname>
+          <displayName>Stacy Doe</displayName>
+        </employee>
+      </employees>
+    </Finance>
+  </departments>
+</root>
